@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikinciodevim", "ikinciodevim\ikinciodevim.csproj", "{CD0771DF-EB2F-4CE1-9EB9-C040A0410C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0771DF-EB2F-4CE1-9EB9-C040A0410C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0771DF-EB2F-4CE1-9EB9-C040A0410C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0771DF-EB2F-4CE1-9EB9-C040A0410C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0771DF-EB2F-4CE1-9EB9-C040A0410C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9958694-AB6D-4FD0-9BEC-0AB603D4AA65}
+	EndGlobalSection
+EndGlobal
